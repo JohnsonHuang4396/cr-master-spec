@@ -6,3 +6,11 @@ export const world=()=>{
 
 export var test='this is test code'
 
+export var fnc = () => {
+    return 'this is a function'
+}
+
+export var obj={
+  name: 'John',
+  age: 30
+}
