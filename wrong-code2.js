@@ -4,6 +4,6 @@ export const world=()=>{
     return "hello";
 }
 
-var num
+var num = 10
 
 var num2=num=10
