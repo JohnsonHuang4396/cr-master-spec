@@ -4,5 +4,6 @@ export const world=()=>{
     return "hello";
 }
 
-export var test='this is test code'
+var num = 10
 
+var num2=num=10
